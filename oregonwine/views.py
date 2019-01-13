@@ -5,3 +5,4 @@ from . models import Winery
 # Create your views here.
 class WineryList(ListView):
     model = Winery
+    context_object_name = 'wineries'
