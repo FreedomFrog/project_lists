@@ -6,6 +6,17 @@
 </head>
 <body>
     <h1>Hello Joe</h1>
+    {%  block content %}
+        <h2>Winery List</h2>
+        <ul>
+            {% for winery in wineries %}
+                <ul>
+                    <li><a href="{{ winery.website }}">{{ winery.name }}</a></li>
+                    <li>{{ winery.address }}</li>
+                </ul>
+            {% endfor %}
+        </ul>
+    {%  endblock %}
 
 </body>
 </html>
