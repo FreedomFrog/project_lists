@@ -23,7 +23,7 @@
         <counts>
           <entry key="HTML" value="245" />
           <entry key="PLAIN_TEXT" value="36" />
-          <entry key="Python" value="733" />
+          <entry key="Python" value="743" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -80,8 +80,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/oregonwine/views.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+                <state relative-caret-position="119">
+                  <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
                   <folding>
                     <element signature="e#0#35#0" expanded="true" />
                   </folding>
@@ -148,7 +148,11 @@
           </file>
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/oregonwine/templates/oregonwine/winery_list.html">
-              <provider selected="true" editor-type-id="text-editor" />
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+                </state>
+              </provider>
             </entry>
           </file>
         </leaf>
@@ -176,12 +180,12 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/project_lists/urls.py" />
         <option value="$PROJECT_DIR$/oregonwine/models.py" />
-        <option value="$PROJECT_DIR$/oregonwine/views.py" />
         <option value="$PROJECT_DIR$/oregonwine/urls.py" />
         <option value="$PROJECT_DIR$/oregonwine/templates/oregonwine/winery_list.html" />
         <option value="$PROJECT_DIR$/oregonwine/templates/oregonwine/index.html" />
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/oregonwine/admin.py" />
+        <option value="$PROJECT_DIR$/oregonwine/views.py" />
       </list>
     </option>
   </component>
@@ -317,13 +321,13 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19988802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19988802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32987013" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32987013" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -409,13 +413,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oregonwine/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oregonwine/templates/oregonwine/winery_list.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/oregonwine/admin.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -439,11 +440,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oregonwine/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="119">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oregonwine/templates/oregonwine/winery_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
